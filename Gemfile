@@ -59,6 +59,6 @@ group :test do
 end
 gem "devise"
 gem "awesome_print"
-gem 'avo', '~> 3.12'
+gem 'avo', '~> 3.13'
 
 gem "pundit", "~> 2.4"
